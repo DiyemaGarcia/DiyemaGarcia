@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://diyemagarcia.github.io/site_web/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garciajosiasdiyema)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@garciagarcia293)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/garciagarcia293/)
